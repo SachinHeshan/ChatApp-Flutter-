@@ -1,0 +1,3 @@
+Please add your app logo here as 'logo.png'
+Recommended size: 200x200px or 512x512px
+Supported formats: PNG, JPG, SVG
